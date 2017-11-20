@@ -56,7 +56,7 @@ export default {
     padding: 10px;
     width: 100%;
     margin-bottom: 10px;
-    background-color: #fafafa;
+    background-color: #e5e5e5;
   }
 
   .createnote {
